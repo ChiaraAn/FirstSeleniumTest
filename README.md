@@ -1,6 +1,6 @@
-First automation framework using Selenium
+# First automation framework using Selenium
 
-Navigate to the webpage (https://wikipedia.org)
+## Navigate to the webpage (https://wikipedia.org)
 
   1-Navigate to the webpage (https://wikipedia.org)
   2-Write in the search box the text “Microsoft”
